@@ -1,7 +1,5 @@
-# Adventure_work-Online-sales
-![Sales](https://github.com/user-attachments/assets/e035972b-dd4d-4769-96f0-104d47b957ea)
-
 # Adventure Works Sales Dashboard 📊
+![Sales](https://github.com/user-attachments/assets/e035972b-dd4d-4769-96f0-104d47b957ea)
 
 ## Overview
 An interactive Power BI dashboard analyzing Adventure Works' online sales performance and distribution channels. This project visualizes key business metrics and provides insights into sales patterns across different geographical regions.
