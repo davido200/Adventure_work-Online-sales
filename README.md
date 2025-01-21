@@ -39,11 +39,5 @@ An interactive Power BI dashboard analyzing Adventure Works' online sales perfor
 3. Price sensitivity as primary sales driver
 4. Consistent 7-day delivery performance
 
-## 💡 Future Improvements
-* Add predictive analytics
-* Implement more granular regional analysis
-* Include customer segmentation
-* Add real-time data integration
-
 ---
 *Created with Power BI for Adventure Works Sales Analysis*
