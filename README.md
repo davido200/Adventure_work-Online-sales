@@ -1,43 +1,76 @@
-# Adventure Works Sales Dashboard 📊
+# Adventure Works Online Sales Dashboard 📊
 ![Sales](https://github.com/user-attachments/assets/e035972b-dd4d-4769-96f0-104d47b957ea)
 
-## Overview
-An interactive Power BI dashboard analyzing Adventure Works' online sales performance and distribution channels. This project visualizes key business metrics and provides insights into sales patterns across different geographical regions.
-
-## 🚀 Key Features
-* **Real-time Metrics Display**: Showcasing crucial KPIs including:
-  * Total Revenue: $141M
-  * Online Sales: $32M
-  * Growth Rate: -20.6%
-  * Online Orders: 28K
-  * Delivery Performance: 7 days avg.
-  * Customer Base: 18K users
-
-* **Multi-dimensional Analysis**:
-  * Channel Distribution (Online vs Offline)
-  * Geographical Revenue Breakdown
-  * Sales Driver Analysis
-  * Year-over-Year Comparisons
-
-## 🛠️ Technical Stack
-* **Platform**: Power BI
-* **Data Visualization**: 
-  * Pie Charts
-  * Line Graphs
-  * Bar Charts
-  * Stacked Columns
-
-## 📈 Business Impact
-* Clear visualization of revenue streams
-* Identification of key market opportunities
-* Performance tracking across regions
-* Analysis of sales drivers
-
-## 🔎 Key Insights
-1. Strong offline presence dominating sales
-2. Significant market concentration in USA and Australia
-3. Price sensitivity as primary sales driver
-4. Consistent 7-day delivery performance
+## 🚀 Overview
+An interactive Power BI dashboard project analyzing **Adventure Works' online sales performance** across key geographies and timeframes. This dashboard presents sales metrics, channel distribution, and sales drivers with rich visualizations for data-driven decision-making.
 
 ---
-*Created with Power BI for Adventure Works Sales Analysis*
+
+## 📌 Key Features
+
+- **Real-Time KPIs**:
+  - 🏷️ Total Revenue: **$141M**
+  - 💻 Online Revenue: **$32M**
+  - 📉 Growth Rate: **-20.6%**
+  - 📦 Online Orders: **28K**
+  - ⏱️ Avg. Shipping Days: **7**
+  - 👥 Online Customers: **18K**
+
+- **Sales Channel Analysis**:
+  - Online (23.06%) vs. Offline (76.94%) distribution
+
+- **Geographical Breakdown**:
+  - Top countries: USA and Australia lead in online revenue
+
+- **Sales Reason Insights**:
+  - Leading driver: **Price**
+  - Other major drivers: Promotions, Manufacturer, and Quality
+  - **Television ads had no sales impact**
+
+- **Year-over-Year Comparison**:
+  - Online growth trend shows plateau and decline by 2004
+
+---
+
+## 📈 Business Impact
+
+- Revealed hidden patterns in regional performance
+- Informed advertising effectiveness and budget optimization
+- Uncovered underutilized markets with growth potential
+- Identified core drivers behind customer purchases
+
+---
+
+## 🔎 Insights Summary
+
+| Focus Area         | Finding |
+|--------------------|---------|
+| Revenue Source     | Offline still dominates |
+| Regional Revenue   | USA & Australia top markets |
+| Growth Trend       | -20.6% decline in 2004 |
+| Sales Motivation   | Price and Promotions |
+| Media ROI          | Television ineffective |
+
+---
+
+## 💡 Recommendations
+
+- Expand online campaigns in low-performing regions
+- Replace or supplement TV ads with digital marketing
+- Launch dynamic pricing strategies
+- Offer region-specific promotions and discounts
+- Launch loyalty/retention programs
+- Address online growth slowdown with innovation
+
+---
+
+## 🛠️ Tech Stack
+
+- **Platform**: Power BI
+- **Visuals**:
+  - Pie Charts, Bar Charts, Line Graphs, Stacked Columns
+- **Data Source**: AdventureWorks Dataset
+
+
+
+
